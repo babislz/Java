@@ -1,0 +1,24 @@
+Ordem de E 
+lg(n) é mais rápido.
+
+- Abstração;
+- Encapsulamento;
+- Herança;
+- Polimorfismo = Existem vários tipos. É quando uma entidade pode se comportar de diversas formas a depender de algumas condições.
+
+public = oq for público estará visivel em qualquer uma das classes.
+
+private = a classe privada é visível tanto na classe mãe quanto das classes filhas, porém variáveis privadas não são visíveis.
+
+protected = privada, porém é visível na classe filha.
+
+@overhide =  Reescrever um método que foi herdado, aonde seu comportamento na classe Pai, se difere do seu comportamento na classe filha. Ou seja, eles possuem o mesmo nome, mas funcionalidades ou ações diferentes.
+
+*uma classe pode herdar apenas de uma classe mas pode herdar de várias interfaces.
+
+a classe permite implementaçõese a interface não, a interface pode apenas pedir por métodos. A interface é como se fosse um contrato e a classe define o que você é por si só(funcionamento fundamental, o que você é).
+
+- abstrações
+
+
+
